@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FLAG</name>
+	<gx:CascadingStyle kml:id="__managed_style_26696BB77519E2A710B1">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_138283BDDD19E2A710B1">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F362DF0B119E2A710B1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_138283BDDD19E2A710B1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_26696BB77519E2A710B1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="09682D6B0B19E2A710B0">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>131.8539519133067</longitude>
+			<latitude>17.07625975358431</latitude>
+			<altitude>-5331.838079181673</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>3790554.046288133</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				129.6962531145037,19.42285738150754,-5381.420099601641 126.7387659218199,18.96725094655476,-4062.499556757141 127.4689647401752,14.52454939526409,-5173.013358363113 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="04F3DA008519E2A72C81">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>131.8539519133067</longitude>
+			<latitude>17.07625975358431</latitude>
+			<altitude>-5331.838079181673</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>3790554.046288133</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				127.093554066927,16.89325556690419,-4655.408590071598 129.2134604714539,17.2253206401822,-5226.259987341495 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="00486585BE19E2A74A78">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>135.2235632043379</longitude>
+			<latitude>17.65631449118268</latitude>
+			<altitude>-2972.72178198096</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>3788195.470043421</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				130.9520334259345,19.58234009081773,-5356.963377839361 131.6425493430161,15.47732077199019,-5414.762793064014 134.0458862593922,15.845789448621,-4867.542734985594 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0B1B6F1A9919E2A761AF">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>140.0543785879153</longitude>
+			<latitude>18.10943702803994</latitude>
+			<altitude>-3681.943265787118</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>3788904.447961451</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				135.5154583549108,16.07010630171023,-5162.169854892434 136.0062293417317,20.05595541570015,-2919.825046754707 137.812205756501,16.38542364527497,-5319.105999753626 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="032F3820CA19E2A77270">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>140.0543785879153</longitude>
+			<latitude>18.10943702803994</latitude>
+			<altitude>-3681.943265787118</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>3788904.447961451</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				135.7161186083172,17.52210424224965,-3869.598527971594 137.0149354503741,17.70424579225045,-5267.323240965681 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0F1C4E0C6219E2A7EA3B">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>147.3691882843276</longitude>
+			<latitude>18.04973347923542</latitude>
+			<altitude>-4269.171318870271</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7165904.497543573</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				140.9865118033051,20.33980744869477,-4782.173746304123 138.2421798741448,20.09402782945606,-4099.157972290119 139.0285211712521,16.66047610768767,-4224.68485876027 142.0191950391084,17.03188030904398,-3960.431240327708 141.657756170327,18.54011350318807,-4047.004242196941 140.3158434284408,18.34885597637264,-3584.580255215122 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="09CD1E00BE19E2A83085">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>147.6123366010127</longitude>
+			<latitude>16.52232850388952</latitude>
+			<altitude>-4393.327858502004</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>4345210.218095184</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				144.822188555604,20.85599261796671,-1473.258112275695 144.2415404164157,20.82946197771544,-2345.397796545504 144.3726259189356,19.45120420507118,-3792.691328287409 143.9253809826564,19.15227585866869,-3684.779973192014 144.4339125021521,18.88816870867426,-3501.990750656117 144.6068426092374,17.43024955201865,-2283.090459977285 145.0784042574968,17.39126581634758,-2601.228816658028 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="09DA885C6919E2A9BA41">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>155.0758690423062</longitude>
+			<latitude>17.55705433706058</latitude>
+			<altitude>-5195.311165506288</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>6378587.367635965</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				146.5086913673774,19.8805040687995,-3077.393711800853 146.3103820016475,20.67388463283013,-3533.574497367773 148.9439460566889,20.85504141556261,-5494.649691469291 147.8714641213556,17.67509617257848,-5549.079003991986 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="09FFBD742119E2A9D005">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>155.0758690423062</longitude>
+			<latitude>17.55705433706058</latitude>
+			<altitude>-5195.311165506288</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>6378587.367635965</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				150.2774700240828,20.68350549132612,-3599.525613231193 150.4982751297071,18.11377866474809,-4604.701079225201 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0E7F5DBF3219E2A9E0A6">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>155.0758690423062</longitude>
+			<latitude>17.55705433706058</latitude>
+			<altitude>-5195.311165506288</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>6378587.367635965</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				150.3955809416626,19.2649261350272,-3957.772664488595 152.3892352019296,19.43076381774148,-5898.428929033234 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="058090A02F19E2A9EFD1">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>155.0758690423062</longitude>
+			<latitude>17.55705433706058</latitude>
+			<altitude>-5195.311165506288</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>6378587.367635965</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				152.2579990604552,20.78168605769124,-4845.828021525125 152.5543012972227,17.88617773766017,-4976.889142339461 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0F2A5B8C5119E2AA09CD">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>155.0758690423062</longitude>
+			<latitude>17.55705433706058</latitude>
+			<altitude>-5195.311165506288</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>6378587.367635965</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				154.0213348814963,20.66374094884847,-5185.420801968692 156.2358050268966,20.75976438550274,-2586.096709007008 156.2835860994221,17.79979003242783,-6191.660049436288 154.2409322088177,17.72794367492997,-4035.639815903856 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0B47DA6CEF19E2AA2152">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>155.0758690423062</longitude>
+			<latitude>17.55705433706058</latitude>
+			<altitude>-5195.311165506288</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>6378587.367635965</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				154.3354301532734,19.38740057644148,-4991.585351250272 156.1560204358894,19.44363526320516,-4869.969833515021 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="04A0AAB7E119E2AA5A9A">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>165.7230127432133</longitude>
+			<latitude>17.82562291488886</latitude>
+			<altitude>-4302.700775895513</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>6377694.974434378</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				157.2570227801394,17.8925239758015,-6367.661612004547 160.1667076077995,17.99456959246094,-5398.306563432543 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0C84E02BDE19E2AA8B21">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>168.0703832605643</longitude>
+			<latitude>17.33842065982082</latitude>
+			<altitude>-5574.026685745709</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>6378965.590456726</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				163.3589141069318,21.1969377087896,-3541.218470348193 161.0966922908425,21.11368688042261,-4003.838832838133 161.385585681623,18.07020323422616,-3704.765627418969 163.3839131192064,18.19015110385596,-5697.31298616831 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0D7306B39D19E2AA9E5D">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>168.0703832605643</longitude>
+			<latitude>17.33842065982082</latitude>
+			<altitude>-5574.026685745709</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>6378965.590456726</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				161.3184220998446,19.62341420816589,-3459.635533408269 162.8072660080784,19.76098801415599,-3885.398479102754 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="025229B47F19E2AAB682">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>168.0703832605643</longitude>
+			<latitude>17.33842065982082</latitude>
+			<altitude>-5574.026685745709</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>6378965.590456726</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				164.9578817669419,21.22300309080453,-5309.034290687916 164.2377406073465,19.06310769425205,-4327.50308359901 166.3311555089495,19.15467527772379,-4107.909423500917 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="08B2B489E519E2AAD5F6">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>157.9793159246613</longitude>
+			<latitude>18.1600946820355</latitude>
+			<altitude>-8339.162847777941</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>12449961.35040164</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				165.7450209056929,20.03412899904319,-5796.466766682241 165.6896103022381,17.45931470744828,-3918.463633728534 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="040ABF2CEE19E2AAF80C">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>167.6085282660978</longitude>
+			<latitude>17.31072855522322</latitude>
+			<altitude>-5038.278263549009</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>12446661.3942647</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				167.883904686934,21.19677820726306,-7712.700162455583 169.3320100596441,21.38266717898244,-6257.293197829884 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0EDA843F7019E2AB06A2">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>167.6085282660978</longitude>
+			<latitude>17.31072855522322</latitude>
+			<altitude>-5038.278263549009</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>12446661.3942647</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				168.6416454100468,21.25861099053202,-7156.937414812443 168.6833492000333,17.5320506605947,-3508.532099712016 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="01739A00D519E2AB1490">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>167.6080161952596</longitude>
+			<latitude>17.31508159755352</latitude>
+			<altitude>-5058.694718131832</altitude>
+			<heading>0.1767320469594312</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>12446682.65980482</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				168.2129802368585,17.46997888646699,-4425.977823170136 169.1527245070252,17.4647501194817,-2099.63165363391 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="07A1D8FD7319E2AB6FBF">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>174.150742524099</longitude>
+			<latitude>16.9043035452086</latitude>
+			<altitude>-13938.39802040853</altitude>
+			<heading>0.1788406936482771</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>12455563.3012569</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				171.0594969269885,21.36090875163606,-7874.614530258293 173.6836818096322,21.55952371978673,-1651.877239011694 173.7514086621316,19.50154512476711,-3946.395474487895 171.3736400045217,19.1075988069481,-6179.967879208055 171.6685150698696,17.31318922538087,-2690.508574808824 173.8166348011842,17.25721738189834,-2557.179596608335 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="075EA82A5119E2ABA51E">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-179.0327623482894</longitude>
+			<latitude>17.45040856607389</latitude>
+			<altitude>-5073.749124103962</altitude>
+			<heading>0.1788406935117356</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>12446698.60895991</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				175.861116852771,21.42485161540748,-8603.971199868785 179.6024901234961,21.46099874552847,-2913.102703537527 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="05208DC84B19E2ABB9DC">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-179.0327623482894</longitude>
+			<latitude>17.45040856607389</latitude>
+			<altitude>-5073.749124103962</altitude>
+			<heading>0.1788406935096976</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>12446698.60895991</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				177.7440864796329,21.12730907247535,-4797.869963535908 177.8087554575787,17.33873385966268,-4665.842754271207 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="03610A7E2319E2ABCDE0">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-179.0327623482894</longitude>
+			<latitude>17.45040856607389</latitude>
+			<altitude>-5073.749124103962</altitude>
+			<heading>0.1788406935096976</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>12446698.60895991</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-178.813531252737,21.26822818666547,-4197.193463491095 -178.832295859436,17.22550199462114,-4266.008107381839 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0529FF4E2319E2ABDE18">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-179.0327623482894</longitude>
+			<latitude>17.45040856607389</latitude>
+			<altitude>-5073.749124103962</altitude>
+			<heading>0.1788406935096976</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>12446698.60895991</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-178.7547276272441,19.34100892151442,-6505.109932097777 -175.832327008247,19.2438382099441,-5256.452226538302 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="08D3B98AC819E2ABEC27">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-179.0327623482894</longitude>
+			<latitude>17.45040856607389</latitude>
+			<altitude>-5073.749124103962</altitude>
+			<heading>0.1788406935096976</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>12446698.60895991</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-175.6422925735655,21.29850635154605,-4258.351251013136 -175.6788648839023,17.12389420993022,-2712.853363434661 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0D41530CFB19E2ACC89F">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-172.0049912682153</longitude>
+			<latitude>16.7674694251602</latitude>
+			<altitude>-3450.156365188735</altitude>
+			<heading>0.1734303978869969</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>6853326.120693685</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-173.6669076077858,17.34786594107553,-3696.144099424735 -169.7471352735763,17.33108554973705,-3621.498722172269 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="08D93E51F519E2ACF44F">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-159.3659012217746</longitude>
+			<latitude>14.79100237852498</latitude>
+			<altitude>-8741.597315212824</altitude>
+			<heading>0.1734303975297406</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7548353.084918261</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-168.4837121575769,20.29461393869654,-1384.852920742067 -167.8411917921828,17.34676067976102,-2208.014751743631 -166.338349387989,20.22232847284669,-3036.661159447729 -165.5334017941964,17.08881835762756,-2832.116851983368 -164.0073481605301,19.97885458836316,-3049.607136472184 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0E36754D5619E2AD05EE">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-159.3659012217746</longitude>
+			<latitude>14.79100237852498</latitude>
+			<altitude>-8741.597315212824</altitude>
+			<heading>0.1734303975297406</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7548353.084918261</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-162.2528834032867,19.87657634790137,-3809.715836643184 -163.3303966257595,17.90679453694014,-5146.897634597488 -161.2799839663731,18.00227674743516,-7404.764140946391 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0ACA0390BD19E2AD1147">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-159.3659012217746</longitude>
+			<latitude>14.79100237852498</latitude>
+			<altitude>-8741.597315212824</altitude>
+			<heading>0.1734303975297406</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7548353.084918261</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-161.9048430572357,18.74224343151159,-6462.272976621782 -162.1141005327904,16.00787481036436,-5800.676518909028 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="078E280D7F19E2AD55BF">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-159.3659012217746</longitude>
+			<latitude>14.79100237852498</latitude>
+			<altitude>-8741.597315212824</altitude>
+			<heading>0.1734303975255375</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7548353.084918261</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-158.2338164686943,19.60197754851278,-4997.813165127829 -160.2189829446631,19.57042995445432,-5862.341172583396 -160.2547209025599,17.72897972033516,-5173.361410576177 -158.1315155905896,17.76004866441347,-4583.041385196132 -158.1900774288938,15.9697742861958,-5469.780661999279 -159.968581565196,16.01634929016728,-6835.739429439097 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="036F68ADD119E2AF6D73">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-155.5700573545789</longitude>
+			<latitude>14.40239027114795</latitude>
+			<altitude>-6239.15742260666</altitude>
+			<heading>0.1734303963676069</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>6999458.355517387</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-158.2870097749762,19.99460206747545,-2447.752374429579 -158.1969123645046,19.22698187882704,-2691.175838010801 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0605DA12BB19E2AFAD8A">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-155.5700570721292</longitude>
+			<latitude>14.40239030648999</latitude>
+			<altitude>-6239.797039928431</altitude>
+			<heading>0.1734303963676069</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>6999459.115000963</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-160.0885004870298,16.37911554760791,-5123.088269218094 -159.9589063313708,15.58531344084996,-5776.128530523197 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0D25F9FBED19E2AD7267">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-153.9126480490821</longitude>
+			<latitude>16.05423922523944</latitude>
+			<altitude>-5023.447906799121</altitude>
+			<heading>0.1734303974330651</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7544634.653331043</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-156.5052808759502,16.41593294888067,-4004.085524569684 -153.3608019210603,16.49769468907288,-3867.283886970356 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0184CE09C919E2AD88D9">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-153.9129366013742</longitude>
+			<latitude>16.0551847516511</latitude>
+			<altitude>-5021.123678185291</altitude>
+			<heading>0.1734303974330712</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7544632.374880314</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-152.1292452120297,19.40799941766703,-2745.207286446034 -152.2143409270946,16.14064963761766,-3821.631393702229 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0CFE79BBD819E2ADA52B">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-153.9129366013742</longitude>
+			<latitude>16.0551847516511</latitude>
+			<altitude>-5021.123678185291</altitude>
+			<heading>0.1734303974330712</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7544632.374880314</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-152.168621595955,19.52574006575638,-2895.914022813237 -149.8419532516891,19.61444406637202,-6070.449972385025 -150.0159660748398,17.97525482253141,-5207.359288209299 -152.1919846070086,17.9277072005293,-2956.586427769855 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0DD43BAD7E19E2AE42EE">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-153.9129366013742</longitude>
+			<latitude>16.0551847516511</latitude>
+			<altitude>-5021.123678185291</altitude>
+			<heading>0.1734303974309697</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7544632.374880314</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-150.0159660748398,17.97525482253141,-5207.359288209299 -149.5227728899684,17.92644389071794,-5336.71119831438 -149.5754205286139,16.01841773287365,-5293.140488876317 -151.9722056308037,16.06023016018347,-4292.051730483857 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0599AA3F8A19E2AE57F4">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-145.5976366505773</longitude>
+			<latitude>16.57737884850795</latitude>
+			<altitude>-1712.438812864215</altitude>
+			<heading>0.1734303973679245</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7541324.064424038</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-147.8612624755395,19.59033849446962,-7333.587108480931 -147.8212842980608,15.61951994503644,-6030.192730599927 -145.7206098260918,16.0146167760224,-4554.216239662065 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0DB35C8C8119E2AE746D">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-137.9024853718739</longitude>
+			<latitude>16.77974477718573</latitude>
+			<altitude>-2882.047326350373</altitude>
+			<heading>0.1734303973258944</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7542492.909647226</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-144.7123927195341,19.56323198631411,-5416.977066818282 -144.5244678123474,15.38401822792123,-5999.850780149124 -141.7104692476479,15.84116981322094,-5621.539148396199 -141.9412182275828,19.34244928083531,-4207.79068943503 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="029CBE30BE19E2AE99DF">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-137.9024853718739</longitude>
+			<latitude>16.77974477718573</latitude>
+			<altitude>-2882.047326350373</altitude>
+			<heading>0.1734303973258944</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7542492.909647226</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-139.8262813650021,18.77889939366511,-5193.384109659638 -139.2564904940936,19.52414317818104,-8354.905741651221 -139.1163848835117,15.71151481492572,-4339.30149942141 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="01BDF7999719E2AEA884">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-137.9024853718739</longitude>
+			<latitude>16.77974477718573</latitude>
+			<altitude>-2882.047326350373</altitude>
+			<heading>0.1734303973258944</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7542492.909647226</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-139.8835495337566,15.70765234690199,-3818.012104668539 -138.7127106852361,15.67360818401047,-4205.838838080404 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="072305A63B19E2AECB94">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-137.9024853718739</longitude>
+			<latitude>16.77974477718573</latitude>
+			<altitude>-2882.047326350373</altitude>
+			<heading>0.1734303973258944</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7542492.909647226</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-134.9204912999217,19.53246699836487,-3658.208581232986 -136.9434307589053,19.48302787289775,-11736.3949146313 -137.0048346286091,17.3774879723066,-6258.485457584015 -134.6757929518287,17.62014710716821,-3856.372091955127 -134.5520570159291,15.71254928957145,-3267.85802703769 -136.6564204018245,15.54874481598247,-4157.939108422677 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0DE8391E9219E2AEDC97">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-137.9024853718739</longitude>
+			<latitude>16.77974477718573</latitude>
+			<altitude>-2882.047326350373</altitude>
+			<heading>0.1734303973258944</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7542492.909647226</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-132.7186140790897,19.29708362011588,-8223.933526072036 -132.7249034923773,15.35443523263351,-6370.553114777512 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="05D444708119E2AEEA3E">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-137.9024853718739</longitude>
+			<latitude>16.77974477718573</latitude>
+			<altitude>-2882.047326350373</altitude>
+			<heading>0.1734303973258944</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7542492.909647226</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-132.5917312740144,17.26129293716504,-2989.945072700055 -130.0902908933802,17.29536498733919,-5898.659841155519 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="04BC62867119E2AEFCB8">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-138.073970112082</longitude>
+			<latitude>17.44861553043265</latitude>
+			<altitude>-5677.067505983848</altitude>
+			<heading>0.1734303973258944</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7545288.568689823</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-129.9348531226242,18.77786462106685,-3757.766147467695 -129.6435137648635,14.20467543932677,-3096.419249689658 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0F7C9B3CF519E2AF21C6">
+		<name>無題のパス</name>
+		<LookAt>
+			<longitude>-138.073970112082</longitude>
+			<latitude>17.44861553043265</latitude>
+			<altitude>-5677.067505983848</altitude>
+			<heading>0.1734303973237928</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000002988606</gx:fovy>
+			<range>7545288.568689823</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F362DF0B119E2A710B1</styleUrl>
+		<LineString>
+			<coordinates>
+				-128.1323445311665,18.92499527576247,-5230.922832146006 -127.6128492826832,18.89980311628805,-5871.791348213522 -127.5803678351109,17.43945100110389,-5996.277054572933 -127.0885417987541,17.05696538993188,-5452.206906737939 -127.502359918819,16.76536949858876,-2712.321602854362 -127.4511201105585,14.31400567634827,-4211.084116903634 -128.0467930819756,14.27210181011017,-3943.850116655877 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
